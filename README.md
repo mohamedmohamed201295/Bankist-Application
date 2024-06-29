@@ -1,4 +1,4 @@
-# Bankist-Application
+# Bankist
 Minimalist banking application that allows users to manage their accounts, view transactions, transfer money, request loans, and close accounts. The application features a clean and responsive design, making it easy to use on both desktop and mobile devices.
 
 ## Features
@@ -35,3 +35,15 @@ To get a local copy up and running follow these simple steps.
 - Use one of the following credentials to log in:
   - Username: `mm` (PIN: `1111`)
   - Username: `jd` (PIN: `2222`)
+2. Navigate through the application:
+- View current balance, transaction history, and summary.
+- Transfer money to other users by entering their username and the amount.
+- Request a loan.
+- Close your account if needed.
+
+## License
+Distributed under the MIT `License`. See LICENSE for more information.
+
+## Acknowledgements
+- Design inspired by Jonas Schmedtmann's projects.
+- Icons and logos are for illustrative purposes only and belong to their respective owners.
