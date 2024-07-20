@@ -326,7 +326,3 @@ btnSort.addEventListener('click', e => {
   displayMovements(currentAccount, !sorted)
   sorted = !sorted
 })
-
-/////////////////////////////////////////////////
-/////////////////////////////////////////////////
-// LECTURES
